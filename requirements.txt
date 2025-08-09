@@ -1,5 +1,5 @@
-streamlit==1.36.0
-pandas==2.2.1
-plotly==5.18.0
-numpy==1.26.4
-openpyxl==3.1.2
+streamlit==1.39.0  # Latest as of Aug 2025; full 3.13 support
+pandas==2.2.3  # Minimum for 3.13
+plotly==5.24.1  # Latest; ensures compatibility
+numpy==2.1.1  # Minimum for 3.13
+openpyxl==3.1.5  # Latest minor update
